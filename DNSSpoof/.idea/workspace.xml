@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="8927d33c-3b3f-4150-8f50-deec34416e7b" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/python-netfilterqueue" />
+  </component>
+  <component name="ProjectId" id="1XyQudcFUTgQlFTyEmtpA2S6X85" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="8927d33c-3b3f-4150-8f50-deec34416e7b" name="Default Changelist" comment="" />
+      <created>1582016077727</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1582016077727</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="611" y="316" key="com.intellij.ide.util.TipDialog" timestamp="1586266969589">
+      <screen x="0" y="27" width="1920" height="923" />
+    </state>
+    <state x="611" y="316" key="com.intellij.ide.util.TipDialog/0.27.1920.923@0.27.1920.923" timestamp="1586266969589" />
+    <state x="645" y="316" key="com.intellij.ide.util.TipDialog/50.27.1870.923@50.27.1870.923" timestamp="1582279878075" />
+    <state x="757" y="408" width="455" height="162" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1582027522206">
+      <screen x="50" y="27" width="1870" height="923" />
+    </state>
+    <state x="757" y="408" width="455" height="162" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/50.27.1870.923@50.27.1870.923" timestamp="1582027522206" />
+  </component>
+</project>
